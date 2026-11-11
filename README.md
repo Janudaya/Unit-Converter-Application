@@ -112,7 +112,7 @@ UnitConverterApp/
 1. **Launch Android Studio**.
 2. Select **Open** (or **File > Open...**).
 3. Browse to this directory:
-   `C:\Users\JANUDAYA\.gemini\antigravity\scratch\UnitConverterApp`
+   `C:\Users\JANUDAYA\UnitConverterApp`
 4. Wait for Gradle sync to complete automatically.
 5. Select an Android Virtual Device (AVD Emulator) or a connected Android device.
 6. Click the green **Run** button (or press `Shift + F10`).
